@@ -481,7 +481,7 @@ h6 {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 575px) {
   #hero {
       height: 80vh;
       text-align: center;
